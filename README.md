@@ -220,7 +220,7 @@ Na busca, caso um índice inválido seja passado, uma exceção do tipo `IndexEr
 
 - 1.1 - Será validado que o método `enqueue` deve adicionar um valor a fila, modificando seu tamanho.
 
-- 1.2 - Será validado que o método `dequeue` deve remover o elemento a mais tempo na fila, modificando seu tamanho.
+- 1.2 - Será validado que o método `dequeue` deve remover e retornar o elemento a mais tempo na fila, modificando seu tamanho.
 
 - 1.3 - Será validado que o método `search` deve buscar um valor na lista à partir de um índice.
 
